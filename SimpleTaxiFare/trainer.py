@@ -14,7 +14,7 @@ import joblib
 
 ### GCP Storage - - - - - - - - - - - - - - - - - - - - - -
 
-BUCKET_NAME = 'XXX'
+BUCKET_NAME = 'wagon-data-606-totino'
 
 ##### Data  - - - - - - - - - - - - - - - - - - - - - - - -
 
