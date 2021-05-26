@@ -1,7 +1,7 @@
 pip>=9
 setuptools>=26
 wheel>=0.29
-pandas
+pandas==1.2.3
 pytest
 coverage
 flake8
@@ -11,12 +11,13 @@ python-gitlab
 twine
 six==1.15.0
 numpy==1.18.5
-pandas
+pandas-profiling==2.11.0
+scikit-image==0.18.1
 scikit-learn==0.22
 joblib
 memoized-property
 mlflow
 s3fs
-gcsfs
-google-cloud-storage
+gcsfs==2021.5.0
+google-cloud-storage==1.38.0
 termcolor
